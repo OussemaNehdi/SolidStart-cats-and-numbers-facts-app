@@ -1,3 +1,9 @@
+
+![finalCatt](https://github.com/OussemaNehdi/SolidStart-cats-and-numbers-facts-app/assets/157837589/93b7664d-20ab-4db4-82d4-d437b5b13014)
+![image](https://github.com/OussemaNehdi/SolidStart-cats-and-numbers-facts-app/assets/157837589/2fc6a46a-5c6a-4f12-9f36-606ff89b49b0)
+
+Make sure to create a NeonDB database and insert your creds in database.ts.
+
 # SolidStart
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
